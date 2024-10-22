@@ -1,4 +1,4 @@
-# Camouflage-Military-Detection-II
+# Camouflage-Military-Soldier-Density-Estimation
 
 ## Title
 Utilizing YOLO V8 for Camouflaged Military Soldier Density Estimation
